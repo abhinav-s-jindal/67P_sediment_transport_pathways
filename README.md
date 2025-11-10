@@ -1,6 +1,6 @@
 # Comet 67P Sediment Transport Pathways
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17574889.svg)](https://doi.org/10.5281/zenodo.17574889)
 
 ## Overview
 
@@ -35,8 +35,8 @@ Normalized ejection probability distributions derived from erosion data (Groussi
 
 Pre-computed ballistic transport dictionaries for 9 velocities (0.1-0.9 m/s).
 - **Files:** `transport_dict_velocity_0x_shapemodel.pkl` (x = 1 to 9)
-- **Download from:** [Zenodo DOI will be added]
-- **Size:** ~[SIZE] GB total
+- **Download from:** https://doi.org/10.5281/zenodo.17574912
+- **Size:** ~5 GB total
 - **Note:** Place downloaded files in this directory before running analysis scripts
 
 ### Python Scripts
@@ -282,15 +282,16 @@ For interactive visualizer:
 ## Data Availability
 
 - **GitHub:** Code and small data files (<100 MB)
-- **Zenodo:** Large transport dictionaries and complete dataset
-  - DOI: [To be added]
-  - Total size: ~[SIZE] GB
+  - Repository: https://github.com/yourusername/67P_sediment_transport_pathways
+- **Zenodo - Code Repository:** https://doi.org/10.5281/zenodo.17574889
+- **Zenodo - Transport Dictionaries:** https://doi.org/10.5281/zenodo.17574912
+  - Total size: ~5 GB
 
 ---
 
 ## License
 
-[Specify license - e.g., MIT, GPL, CC-BY-4.0]
+CC-BY-4.0
 
 ---
 
@@ -298,17 +299,14 @@ For interactive visualizer:
 
 For questions or issues, please:
 - Open an issue on GitHub
-- Contact: [Your email]
+- Contact: abhinav_jindal@brown.edu
 
 ---
 
 ## Acknowledgments
 
-This research uses the shape model and erosion data from the Rosetta mission. We acknowledge the contributions of the Rosetta Science Ground Segment and the OSIRIS team.
-
 Transport simulations were performed using the DRAG3D code (Marschall et al. 2016, https://doi.org/10.1051/0004-6361/201628085).
 
 ---
 
-**Last Updated:** November 10th, 2025 by Abhinav S. Jindal
-
+**Last Updated:** November 10th, 2025
