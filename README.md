@@ -230,7 +230,7 @@ ParaView (https://www.paraview.org/) is recommended for viewing VTK output files
 
 1. Open VTK file in ParaView
 2. Select "particle_count" for coloring
-3. Recommended colormap: Plasma or Viridis
+3. Recommended colormap: Cool to Warm on log-scale
 4. Use white background for publication-quality figures
 5. Apply "Surface" representation
 
@@ -249,12 +249,17 @@ If you use this code or data in your research, please cite:
 
 And the source erosion data:
 ```bibtex
-@article{Groussin2025,
-  title={[Full citation]},
-  author={Groussin et al.},
-  journal={Astronomy & Astrophysics},
-  year={2025},
-  doi={10.1051/0004-6361/202452260}
+@article{groussin_thermal_2025,
+    title = {Thermal environment and erosion of comet {67P}/{Churyumov}-{Gerasimenko}},
+    volume = {694},
+    copyright = {https://creativecommons.org/licenses/by/4.0},
+    issn = {0004-6361, 1432-0746},
+    doi = {10.1051/0004-6361/202452260},
+    journal = {Astronomy \& Astrophysics},
+    author = {Groussin, O. and Jorda, L. and Attree, N. and Birch, S. P. D. and Bürger, J. and Gutiérrez, P. and Jindal, A. S. and Keller, H. U. and Kramer, T. and Manghi, R. Lasagni and Läuter, M. and Markkanen, J. and Marschall, R. and Schuckart, C.},
+    month = feb,
+    year = {2025},
+    pages = {A21},
 }
 ```
 
