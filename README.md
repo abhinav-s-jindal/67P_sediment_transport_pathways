@@ -306,7 +306,7 @@ For questions or issues, please:
 
 This research uses the shape model and erosion data from the Rosetta mission. We acknowledge the contributions of the Rosetta Science Ground Segment and the OSIRIS team.
 
-Transport simulations were performed using the DRAG3D code [add appropriate citation if applicable].
+Transport simulations were performed using the DRAG3D code (Marschall et al. 2016, https://doi.org/10.1051/0004-6361/201628085).
 
 ---
 
