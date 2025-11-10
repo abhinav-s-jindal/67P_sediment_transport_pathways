@@ -66,7 +66,7 @@ python create_hop_stats.py
 - Shape model (from `obj_files/`)
 
 **Output:**
-- VTK files for ParaView visualization
+- VTK files for ParaView visualization (https://www.paraview.org/)
 - Saved to: `particle_distribution_outputs/v0x/vtk/`
 
 **Usage:**
@@ -191,9 +191,9 @@ This approach ensures particle conservation and eliminates order-dependency issu
 - Particles ejected according to normalized erosion-based probabilities
 - Transport follows pre-computed ballistic trajectories (gravity only)
 
-### Convergence
+### Iterations
 
-Simulations run until relative change between iterations falls below 1% or maximum iteration count is reached.
+Simulations run for a user-specified number of iterations.
 
 ---
 
@@ -226,6 +226,7 @@ Simulations run until relative change between iterations falls below 1% or maxim
 ## Visualization
 
 ### ParaView Workflow
+ParaView (https://www.paraview.org/) is recommended for viewing VTK output files.
 
 1. Open VTK file in ParaView
 2. Select "particle_count" for coloring
