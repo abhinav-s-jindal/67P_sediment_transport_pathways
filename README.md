@@ -7,7 +7,7 @@
 This repository contains code and data for analyzing sediment redistribution pathways on comet 67P/Churyumov-Gerasimenko through ballistic transport simulations. The analysis examines how particles move across the comet's surface via gravitational ejection and landing cycles, providing insights into surface evolution processes on small celestial bodies.
 
 **Associated Publication:**  
-[Citation information will be added upon publication in Science Advances]
+[Citation information will be added upon publication]
 
 **Author:** Abhinav S. Jindal
 
